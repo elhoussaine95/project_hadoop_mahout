@@ -1,9 +1,10 @@
 # project_hadoop_mahout
 # Clustring with  Hadoop and Mahout  (regroupement de texte par K-means)
-# link report & presentation : https://drive.google.com/drive/folders/1q6gA1V54zsS0RZzkgI1MME6uyAC0Xh-G?usp=sharing
-Table des Matières (voir rapport)
-I. Introduction 
-II. Qu'est-ce que le clustering ? 
+# link report & presentation : 
+https://drive.google.com/drive/folders/1q6gA1V54zsS0RZzkgI1MME6uyAC0Xh-G?usp=sharing
+# Table des Matières (voir rapport)  
+I. Introduction  
+II. Qu'est-ce que le clustering ?  
 III. Qu'est-ce que K-means ? 
 IV. Comment fonctionne l'algorithme K-means ? 
 V. Outils utilisés 
